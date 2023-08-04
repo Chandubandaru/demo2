@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(aqua,palevioletred);
+}
+h1{
+    color: aliceblue;
+}
+header{
+    background-color: black;
+    
+    height:100px;
+    padding: 20px;
+}
+ ul li{
+    display: inline;
+   
+    padding: 30px;
+}
+ul li a{
+    color:bisque;
+    text-decoration: none;
+}
+#home img{
+    heigth:150px;
+    width:150px;
+    border-radius: 50%;
+}
+footer{
+    background-color:pink;
+    heigth:20px;
+}
+#Portfolio{
+    background-color:gray;
+}
+li{
+    display:inline;
+    margin-right: 20px;
+}
